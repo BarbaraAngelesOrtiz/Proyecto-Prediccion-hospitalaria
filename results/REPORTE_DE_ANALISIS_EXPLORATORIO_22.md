@@ -12,7 +12,7 @@ La información corresponde a datos de ocupación hospitalaria tanto en planta c
 
 Se busca analizar la información post-covid para predicción de demanda de camas hospitalarias, entendiendo la pandemia como un hecho extraordinario con una demanda extraordinaria a prever con programas de contingencia específicos.
 
-![Tabla](/media/Imagen1.png)
+![Tabla](results/media/Imagen1.png)
 
 > El dataset es de tipo estructurado, con un total de 20.190 filas y 10 columnas.
 > 
