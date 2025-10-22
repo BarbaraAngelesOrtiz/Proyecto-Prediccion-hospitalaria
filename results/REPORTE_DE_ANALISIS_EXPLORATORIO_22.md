@@ -22,9 +22,9 @@ Se busca analizar la información post-covid para predicción de demanda de cama
 > 
 > Por el momento se conservan todas las columnas, entendiendo que todas pueden aportar información a nuestro análisis, incluyendo el 'codigo_ine' que identifica el Municipio al que pertenece el hospital (más allá de la Provincia).
 
-![Gráfico de líneas](/media/Imagen2.png)
+![Gráfico de líneas](/results/media/Imagen2.png)
 
-![Gráfico de barras](/media/Imagen3.png)
+![Gráfico de barras](/results/media/Imagen3.png)
 
 De las gráficas de Número de camas disponibles y ocupadas por provincia se observa un momento especifico en el tiempo, entre junio 2023 y julio 2023, con un número mucho menor que el resto de los días para todas las provincias. Aún se desconoce si son datos reales que responden a una situación específica o un error en la carga de datos. A simple vista se observa que no responde a un patrón anual de variación de datos.
 
@@ -48,15 +48,15 @@ Como puede observarse la distribución de los datos varían por provincia: Salam
 
 **Se entiende conveniente que a la hora de predecir el número de camas diario se realicen modelos de predicción por separado para cada provincia.**
 
-![Gráfico](/media/Imagen4.png)
+![Gráfico](/results/media/Imagen4.png)
 
-![Gráfico en cascada](/media/Imagen5.png)
+![Gráfico en cascada](/results/media/Imagen5.png)
 
 En los diagramas BoxPlot se vuelve a poner en evidencia la variabilidad entre provincias. A su vez hay provincias que presentan **outliers (valores extremos) muy altos**, que podrían deberse a picos de demanda o demandas significativas en relación al tamaño del hospital.
 
 Las medias de camas ocupadas en UCI están por debajo de las medias de las camas ocupadas en planta, pero mantienen la variabilidad en los datos.
 
-![Gráfico](/media/Imagen6.png)
+![Gráfico](/results/media/Imagen6.png)
 
 ***
 
