@@ -26,7 +26,9 @@ Se busca analizar la información post-covid para predicción de demanda de cama
 
 ![Gráfico de barras](/results/media/Imagen3.png)
 
-De las gráficas de Número de camas disponibles y ocupadas por provincia se observa un momento especifico en el tiempo, entre junio 2023 y julio 2023, con un número mucho menor que el resto de los días para todas las provincias. Aún se desconoce si son datos reales que responden a una situación específica o un error en la carga de datos. A simple vista se observa que no responde a un patrón anual de variación de datos.
+De las gráficas de Número de camas disponibles y ocupadas por provincia se observa un momento especifico en el tiempo, entre junio 2023 y julio 2023, con un número mucho menor que el resto de los días para todas las provincias. Aún se desconoce si son datos reales que responden a una situación específica o un error en la carga de datos. A simple vista se observa que no responde a un patrón anual de variación de datos. Lo mismo sucede con varias filas que aparece con 0 (cero) en todas las columnas.
+
+Si se eliminar las filas en las que aparece valores todos iguales a 0 (cero), se entiende que se estaría del lado de la seguridad, eliminando los días que figuran como 0(cero) demanda de camas. Convendría evaluar la incidencia en la predicción.
 
 Se ha consultado a la Dirección General de Salud Digital - Consejería de Sanidad al email: dgsd.grs@saludcastillayleon.es
 
@@ -44,7 +46,7 @@ Se ha consultado a la Dirección General de Salud Digital - Consejería de Sanid
 | Valladolid  | 4032 | 306.808532 | 396.0   | 180.385992     | 58.794321           | 0.000000e+00       | No         |
 | Burgos      | 4025 | 229.504596 | 69.0    | 239.345222     | 104.287768          | 0.000000e+00       | No         |
 
-Como puede observarse la distribución de los datos varían por provincia: Salamanca es la provincia que tiene mayor demanda de camas y la que menor variabilidad tiene. Burgos, es la provincia que aparece con mayor variabilidad.
+Como puede observarse la distribución de los datos varían por provincia: Salamanca es la provincia que tiene mayor demanda de camas y la que menor variabilidad tiene (8.68%). Burgos, es la provincia que aparece con mayor variabilidad (104.29%).
 
 **Se entiende conveniente que a la hora de predecir el número de camas diario se realicen modelos de predicción por separado para cada provincia.**
 
