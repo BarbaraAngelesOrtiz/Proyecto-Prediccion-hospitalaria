@@ -1,0 +1,85 @@
+provincia,hospital,fecha,camas_ocupadas_total,pred_camas_total,camas_ocupadas_planta,camas_ocupadas_uci
+Burgos,Hospital Santiago ApÃ³stol,2022-01-29,64.0,60.19,64.0,0.0
+Valladolid,Edificio Rondilla,2022-01-29,0.0,0.0,0.0,0.0
+Valladolid,Hospital Universitario RÃ­o Hortega,2022-01-29,429.0,440.76666666666665,397.0,32.0
+Segovia,Complejo Asistencial de Segovia,2022-01-29,228.0,229.42333333333335,217.0,11.0
+Valladolid,Hospital ClÃ­nico Universitario de Valladolid,2022-01-29,467.0,520.9433333333334,427.0,40.0
+Valladolid,Hospital de Medina del Campo,2022-01-29,62.0,62.02,62.0,0.0
+Palencia,Complejo Asistencial Universitario de Palencia,2022-01-29,279.0,311.01,268.0,11.0
+Salamanca,Complejo Asistencial Universitario de Salamanca,2022-01-29,568.0,649.9666666666667,529.0,39.0
+Soria,Complejo Asistencial de Soria,2022-01-29,188.0,185.39666666666668,179.0,9.0
+Burgos,Hospital Santos Reyes,2022-01-29,60.0,66.89666666666666,60.0,0.0
+Burgos,Complejo Asistencial Universitario de Burgos,2022-01-29,565.0,592.3633333333333,529.0,36.0
+Zamora,Complejo Asistencial de Zamora,2022-01-29,311.0,296.83666666666664,307.0,4.0
+Valladolid,Edificio Rondilla,2022-01-30,0.0,0.0,0.0,0.0
+Soria,Complejo Asistencial de Soria,2022-01-30,185.0,158.83333333333334,177.0,8.0
+Valladolid,Hospital Universitario RÃ­o Hortega,2022-01-30,421.0,439.8333333333333,391.0,30.0
+Zamora,Complejo Asistencial de Zamora,2022-01-30,311.0,315.8066666666667,305.0,6.0
+Valladolid,Hospital ClÃ­nico Universitario de Valladolid,2022-01-30,495.0,511.95666666666665,452.0,43.0
+Burgos,Complejo Asistencial Universitario de Burgos,2022-01-30,559.0,584.42,524.0,35.0
+Burgos,Hospital Santos Reyes,2022-01-30,52.0,62.906666666666666,52.0,0.0
+Burgos,Hospital Santiago ApÃ³stol,2022-01-30,63.0,55.763333333333335,63.0,0.0
+Palencia,Complejo Asistencial Universitario de Palencia,2022-01-30,273.0,313.42333333333335,260.0,13.0
+Valladolid,Hospital de Medina del Campo,2022-01-30,56.0,59.526666666666664,56.0,0.0
+Salamanca,Complejo Asistencial Universitario de Salamanca,2022-01-30,625.0,645.68,588.0,37.0
+Segovia,Complejo Asistencial de Segovia,2022-01-30,221.0,238.4,212.0,9.0
+Burgos,Hospital Santiago ApÃ³stol,2022-01-31,70.0,56.553333333333335,70.0,0.0
+Burgos,Complejo Asistencial Universitario de Burgos,2022-01-31,585.0,595.2833333333333,552.0,33.0
+Soria,Complejo Asistencial de Soria,2022-01-31,193.0,195.78,185.0,8.0
+Palencia,Complejo Asistencial Universitario de Palencia,2022-01-31,305.0,299.68666666666667,293.0,12.0
+Zamora,Complejo Asistencial de Zamora,2022-01-31,324.0,310.0,316.0,8.0
+Burgos,Hospital Santos Reyes,2022-01-31,59.0,69.87666666666667,59.0,0.0
+Valladolid,Hospital ClÃ­nico Universitario de Valladolid,2022-01-31,512.0,527.16,466.0,46.0
+Segovia,Complejo Asistencial de Segovia,2022-01-31,230.0,238.84666666666666,221.0,9.0
+Valladolid,Hospital de Medina del Campo,2022-01-31,57.0,58.89333333333333,57.0,0.0
+Salamanca,Complejo Asistencial Universitario de Salamanca,2022-01-31,649.0,651.4633333333334,605.0,44.0
+Valladolid,Edificio Rondilla,2022-01-31,0.0,0.0,0.0,0.0
+Valladolid,Hospital Universitario RÃ­o Hortega,2022-01-31,455.0,447.3833333333333,423.0,32.0
+Burgos,Complejo Asistencial Universitario de Burgos,2022-02-01,594.0,593.6033333333334,561.0,33.0
+Valladolid,Hospital de Medina del Campo,2022-02-01,65.0,60.723333333333336,65.0,0.0
+Palencia,Complejo Asistencial Universitario de Palencia,2022-02-01,307.0,300.41,293.0,14.0
+Burgos,Hospital Santiago ApÃ³stol,2022-02-01,76.0,53.12,76.0,0.0
+Soria,Complejo Asistencial de Soria,2022-02-01,200.0,191.87666666666667,193.0,7.0
+Salamanca,Complejo Asistencial Universitario de Salamanca,2022-02-01,647.0,655.63,604.0,43.0
+Valladolid,Hospital ClÃ­nico Universitario de Valladolid,2022-02-01,510.0,520.9833333333333,455.0,55.0
+Zamora,Complejo Asistencial de Zamora,2022-02-01,334.0,297.45666666666665,325.0,9.0
+Segovia,Complejo Asistencial de Segovia,2022-02-01,244.0,222.62,234.0,10.0
+Valladolid,Edificio Rondilla,2022-02-01,0.0,0.0,0.0,0.0
+Valladolid,Hospital Universitario RÃ­o Hortega,2022-02-01,478.0,447.22333333333336,442.0,36.0
+Burgos,Hospital Santos Reyes,2022-02-01,67.0,57.72666666666667,67.0,0.0
+Burgos,Hospital Santiago ApÃ³stol,2022-02-02,78.0,52.68666666666667,78.0,0.0
+Burgos,Complejo Asistencial Universitario de Burgos,2022-02-02,607.0,578.2966666666666,573.0,34.0
+Valladolid,Edificio Rondilla,2022-02-02,0.0,0.0,0.0,0.0
+Salamanca,Complejo Asistencial Universitario de Salamanca,2022-02-02,669.0,655.6,629.0,40.0
+Segovia,Complejo Asistencial de Segovia,2022-02-02,243.0,206.37,234.0,9.0
+Burgos,Hospital Santos Reyes,2022-02-02,64.0,68.26,64.0,0.0
+Valladolid,Hospital de Medina del Campo,2022-02-02,68.0,64.47,68.0,0.0
+Zamora,Complejo Asistencial de Zamora,2022-02-02,331.0,298.62,324.0,7.0
+Soria,Complejo Asistencial de Soria,2022-02-02,200.0,149.86333333333334,191.0,9.0
+Valladolid,Hospital ClÃ­nico Universitario de Valladolid,2022-02-02,532.0,480.48333333333335,483.0,49.0
+Valladolid,Hospital Universitario RÃ­o Hortega,2022-02-02,479.0,385.12333333333333,445.0,34.0
+Palencia,Complejo Asistencial Universitario de Palencia,2022-02-02,295.0,277.12,281.0,14.0
+Salamanca,Complejo Asistencial Universitario de Salamanca,2022-02-03,683.0,663.3533333333334,642.0,41.0
+Valladolid,Hospital ClÃ­nico Universitario de Valladolid,2022-02-03,536.0,481.12333333333333,494.0,42.0
+Segovia,Complejo Asistencial de Segovia,2022-02-03,244.0,208.55,235.0,9.0
+Zamora,Complejo Asistencial de Zamora,2022-02-03,330.0,268.45666666666665,322.0,8.0
+Burgos,Complejo Asistencial Universitario de Burgos,2022-02-03,608.0,579.6166666666667,572.0,36.0
+Soria,Complejo Asistencial de Soria,2022-02-03,205.0,160.72333333333333,195.0,10.0
+Burgos,Hospital Santiago ApÃ³stol,2022-02-03,79.0,59.163333333333334,79.0,0.0
+Palencia,Complejo Asistencial Universitario de Palencia,2022-02-03,333.0,311.69666666666666,318.0,15.0
+Valladolid,Hospital Universitario RÃ­o Hortega,2022-02-03,467.0,386.68,431.0,36.0
+Valladolid,Hospital de Medina del Campo,2022-02-03,65.0,64.18666666666667,65.0,0.0
+Burgos,Hospital Santos Reyes,2022-02-03,70.0,62.336666666666666,70.0,0.0
+Valladolid,Edificio Rondilla,2022-02-03,0.0,0.0,0.0,0.0
+Salamanca,Complejo Asistencial Universitario de Salamanca,2022-02-04,678.0,652.13,643.0,35.0
+Valladolid,Hospital ClÃ­nico Universitario de Valladolid,2022-02-04,536.0,519.33,489.0,47.0
+Valladolid,Hospital de Medina del Campo,2022-02-04,64.0,62.14,64.0,0.0
+Valladolid,Hospital Universitario RÃ­o Hortega,2022-02-04,486.0,457.37666666666667,452.0,34.0
+Valladolid,Edificio Rondilla,2022-02-04,0.0,0.0,0.0,0.0
+Soria,Complejo Asistencial de Soria,2022-02-04,214.0,192.17,204.0,10.0
+Burgos,Hospital Santos Reyes,2022-02-04,68.0,64.46333333333334,68.0,0.0
+Burgos,Complejo Asistencial Universitario de Burgos,2022-02-04,578.0,584.25,540.0,38.0
+Segovia,Complejo Asistencial de Segovia,2022-02-04,235.0,236.76333333333332,227.0,8.0
+Palencia,Complejo Asistencial Universitario de Palencia,2022-02-04,345.0,311.82,328.0,17.0
+Burgos,Hospital Santiago ApÃ³stol,2022-02-04,65.0,56.75333333333333,65.0,0.0
+Zamora,Complejo Asistencial de Zamora,2022-02-04,326.0,300.7733333333333,320.0,6.0
